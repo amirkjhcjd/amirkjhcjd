@@ -36,3 +36,4 @@ if __name__ == "__main__":
     print(f"\nPrime numbers up to {limit}:")
     print(primes)
 e
+List the advantages and disadvantages.
