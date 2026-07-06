@@ -26,7 +26,7 @@ def is_prime(n):
 
 
 def find_primes(limit):
-    return [num for num in range(2, limit + 1) if is_prime(num)]
+   [num for num in range(2, limit + 1) if is_prime(num)]
 
 
 if __name__ == "__main__":
