@@ -38,3 +38,4 @@ if __name__ == "__main__":
 e
 List the advantages and disadvantages.
 Imagine living on Mars.
+Write about a lucky coin.
