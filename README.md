@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fu fact: ...
 -->
-def is_prime(n):
+
     if n < 2:
         return False
 
