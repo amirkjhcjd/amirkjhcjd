@@ -1,7 +1,7 @@
 
 
 
- README.md` (this file) appears on your GitHub profile.
+.md` (this file) appears on your GitHub profile.
 
 
 
