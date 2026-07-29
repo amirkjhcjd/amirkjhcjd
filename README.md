@@ -1,7 +1,7 @@
 
 
 
-.md` (this file) appears on your GitHub profile.
+ (this file) appears on your GitHub profile.
 
 
 
