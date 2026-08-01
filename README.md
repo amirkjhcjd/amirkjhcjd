@@ -1,6 +1,6 @@
 
 
- appears on your GitHub profile.
+ on your GitHub profile.
 
 
 
