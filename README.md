@@ -1,6 +1,6 @@
 
 
- GitHub profile.
+profile.
 
 
 
