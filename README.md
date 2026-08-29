@@ -21,7 +21,7 @@
         if n % i == 0:
             return False
 
-    return Tru
+   turn Tru
 
 
 def find_primes(limit):
