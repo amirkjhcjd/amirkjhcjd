@@ -17,7 +17,7 @@
     if n < 2:
         rturn False
 
-  or i in range(2, int(n ** 0.5) + 1):
+i in range(2, int(n ** 0.5) + 1):
       f n % i == 0:
             return False
 
