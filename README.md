@@ -17,7 +17,7 @@ me: ...
     if n < 2:
         rturn False
 
-ange(2, int(n ** 0.5) + 1):
+ge(2, int(n ** 0.5) + 1):
       f n % i == 0:
             return False
 
