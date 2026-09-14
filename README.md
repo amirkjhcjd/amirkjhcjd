@@ -15,7 +15,7 @@ me: ...
 
 
     if n < 2:
-        rturn False
+       urn False
 
 ge(2, int(n ** 0.5) + 1):
       f n % i == 0:
