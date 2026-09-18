@@ -15,7 +15,7 @@ me: ...
 
 
     if n < 2:
-       urn False
+     n False
 
 e(2, int(n ** 0.5) + 1):
       f n % i == 0:
