@@ -17,7 +17,7 @@
     if n < 2:
      n False
 
-e(2, int(n ** 0.5) + 1):
+, int(n ** 0.5) + 1):
       f n % i == 0:
             urnse
 
