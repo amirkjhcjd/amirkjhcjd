@@ -15,7 +15,7 @@
 
 
     if n < 2:
-     False
+     alse
 
 , int(n ** 0.5) + 1):
       f n % i == 0:
