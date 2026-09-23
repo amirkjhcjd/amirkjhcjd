@@ -17,7 +17,7 @@
     if n < 2:
      alse
 
-, int(n ** 0.5) + 1):
+,nt(n ** 0.5) + 1):
       f n % i == 0:
             urnse
 
