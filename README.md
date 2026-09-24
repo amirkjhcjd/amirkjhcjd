@@ -15,7 +15,7 @@
 
 
     if n < 2:
-     alse
+    lse
 
 ,nt(n ** 0.5) + 1):
       f n % i == 0:
