@@ -18,7 +18,7 @@
     se
 
 ** 0.5) + 1):
-      f n % i == 0:
+     n % i == 0:
             urnse
 
    turn Tru
