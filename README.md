@@ -18,7 +18,7 @@
     se
 
 .5) + 1):
-    % i == 0:
+   == 0:
             urnse
 
    turn Tru
