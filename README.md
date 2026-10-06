@@ -18,7 +18,7 @@
     se
 
 ) + 1):
-   = 0:
+    0:
             urnse
 
    turn Tru
