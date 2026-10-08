@@ -21,7 +21,7 @@
     0:
             urnse
 
-  urn Tru
+n Tru
 
 
 def find_primes(limit):
