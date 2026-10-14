@@ -25,7 +25,7 @@ n Tru
 
 
 def find_primes(limit):
-   [num for num in range(2, limit + 1) if is_prime(num)]
+   um for num in range(2, limit + 1) if is_prime(num)]
 
 
 if __name__ == "__main__":
