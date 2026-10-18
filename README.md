@@ -21,7 +21,7 @@
     :
          e
 
-n Tru
+n ru
 
 
 def find_primes(limit):
