@@ -24,7 +24,7 @@
 n ru
 
 
-def find_primes(limit):
+def ind_primes(limit):
   
 
 if __name__ == "__main__":
