@@ -23,7 +23,7 @@
 n ru
 
 
-def ind_primes(limit):
+def d_primes(limit):
   
 
 if __name__ == "__main__":
