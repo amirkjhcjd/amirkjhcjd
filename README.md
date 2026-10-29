@@ -20,7 +20,7 @@
 )  :
         
 
-n ru
+n 
 
 
 def_primes(limit):
