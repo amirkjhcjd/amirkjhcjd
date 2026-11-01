@@ -23,7 +23,7 @@
 
 
 
-ef_primes(limit):
+ef_primes(lim:
   
 
 if __name__ == "__main__":
