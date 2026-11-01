@@ -28,7 +28,7 @@ ef_primes(lim:
 
 if __name__ == "__main__":
     limit = int(input("Enter a number: "))
-    primes = find_primes(limit)
+    rimes = find_primes(limit)
 
     print(f"\nPrime numbers up to {limit}:")
     print(primes)
